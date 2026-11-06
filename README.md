@@ -2,7 +2,7 @@
 
 ## Acesso
 
-**https://tiagocarvalhob.github.io/Tela-de-Login/**
+**https://tiagocarvalhob.github.io/2-Faculdade/**
 
 Projeto desenvolvido no primeiro período do curso de Análise e Desenvolvimento de Sistemas. Trata-se de uma tela de login desenvolvida como parte de um exercício prático. O objetivo do projeto é demonstrar conhecimentos básicos em HTML, CSS e JavaScript, aplicando conceitos de estruturação, estilização e interatividade para criar uma interface simples, funcional e responsiva.
 
